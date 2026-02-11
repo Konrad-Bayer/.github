@@ -1,1 +1,1 @@
-# .github
+# Konrad Bayer
